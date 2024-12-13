@@ -1,9 +1,8 @@
 # Team-9-Airline-Customer-Satisfaction-CS5804-Intro-To-AI
 Team 9 Mini Project
-The dataset consists of the details of customers who have already flown with them. The feedback of the customers on various context and their flight data has been consolidated.
+The dataset includes information on previous customers who have flown with them. The consumers' feedback on numerous contexts and flight data has been consolidated.
+The primary goal of this dataset is to estimate if a future customer will be satisfied with their service based on the details of the other parameter values.
+Airlines also need to know which aspects of their services should be stressed more in order to generate more satisfied customers.
 
-The main purpose of this dataset is to predict whether a future customer would be satisfied with their service given the details of the other parameters values.
-
-Also the airlines need to know on which aspect of the services offered by them have to be emphasized more to generate more satisfied customers.
 Dataset Link : https://www.kaggle.com/datasets/sjleshrac/airlines-customer-satisfaction/data
 
